@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello WRLD
 GL HF OUU
+=======
+Hello WRLD changed
+GL HF
+>>>>>>> second
